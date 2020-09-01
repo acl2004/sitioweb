@@ -1,0 +1,92 @@
+body{
+	background-color:#f1c5c5
+}
+h1{
+	color:#6a2c70;
+	font-weight:bold;
+	font-family:"CASTELLAR";  
+	font-size:85px;
+	text-align:center;
+	}
+IMG.imgcenter{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	border:none;
+	}
+h4{
+	color:#204051;
+	font-family:"Georgia";
+	font-size:40px;
+	text-align:center;
+	}	
+h2{
+	color:#e84a5f;
+	font-family:"Georgia";
+	font-size:60px;
+	text-align:left;
+	}	
+IMG.imgright{
+	display:block;
+	float:right;
+	margin-left:30px;
+	margin-right:0;
+	border:none;
+}
+p{
+	font-family:"Georgia";
+	font-size:45px;
+	text-align:justify;
+}
+video{
+	width:800px;
+	height:640px;
+	display:block; 
+	margin-left:auto;
+	margin-right:auto;
+	}	
+hr{
+	height:10px;
+	background-color:#e84a5f;
+	width: 90%;
+	border-color:#e84a5f;
+}	
+h5{
+	color:#07031a;
+	font-weight: bold;
+	font-family:"Times New Roman";
+	font-size:40px;
+	text-align:left;
+	}	
+li{
+	color:#1b262c;
+	font-family:"Georgia";
+	font-size:50px;
+	text-align:LEFT;	
+	}	
+table
+	{
+	border-collapse: collapse;
+	}	
+td, th{
+	border: 5px solid #6f0000;
+	font-family:"Georgia";
+	font-size:25px;
+	}	
+caption{
+	font-family:"Times New Roman";
+	font-size:45px;
+	text-align:center;
+}	
+IMG.imgleft{
+	display:block;
+	float:left;
+	margin-left:0;
+	margin-right:30px;
+	border:none;
+}
+	
+	
+	
+	
+	
